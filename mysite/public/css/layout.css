@@ -282,6 +282,22 @@ ul#nav li.current a { color: #0080ff; }
 }
 
 /*----------------------------------------------*/
+/*	Technologies Layout
+/*----------------------------------------------*/
+
+#resume .textcenter {
+   text-align: center;
+   margin-top: 2.5em;
+   padding-left: 2em;
+   padding-right: 2em;
+}
+
+#resume .imgsize {
+   max-width: 50%;
+}
+
+
+/*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
 
@@ -422,6 +438,7 @@ ul#nav li.current a { color: #0080ff; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
+   font-size: 3rem;
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;

@@ -10,7 +10,7 @@
     "email": "songdj98@gmail.com",
     "phone": "513-375-1203",
     "address":{
-      "street":"6501 Tall Timbers St",
+      "street":"6501 Tall Timbers St.",
       "city":"Mason",
       "state":"OH",
       "zip": "45040"
@@ -41,7 +41,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"My experience with various languages and technologies:",
+    "skillmessage":"The languages and technologies I have experience with and enjoy using:",
     "education":[
       {
         "school":"Duke University",
@@ -68,35 +68,51 @@
     "skills":[
       {
         "name":"Java",
-        "level":"80%"
+        "level":"80%",
+        "image":"./images/java.png",
+        "description":"I've used Java in multiple classes, and I am most familiar with it for data structures."
       },
       {
         "name":"Python",
-        "level":"80%"
+        "level":"90%",
+        "image":"./images/python.png",
+        "description":"I am proficient in Python and I really love to use it."
       },
       {
         "name":"JavaScript",
-        "level":"60%"
+        "level":"60%",
+        "image":"./images/javascript.png",
+        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
       },
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"C",
+        "level":"80%",
+        "image":"./images/c.png",
+        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
+        "level":"50%",
+        "image":"./images/react.png",
+        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"80%",
+        "image":"./images/mongodb.png",
+        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+      },
+      {
+        "name":"Git",
+        "level":"60%",
+        "image":"./images/git.png",
+        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+      },
+      {
+        "name":"Unity",
+        "level":"50%",
+        "image":"./images/unity.png",
+        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
       }
     ]
   },
