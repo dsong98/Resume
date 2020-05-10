@@ -41,7 +41,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"The languages and technologies I have experience with and enjoy using:",
+    "skillmessage":"These are some of the languages and technologies that I have experience with and enjoy using:",
     "education":[
       {
         "school":"Duke University",
@@ -70,71 +70,71 @@
         "name":"Java",
         "level":"80%",
         "image":"./images/java.png",
-        "description":"I've used Java in multiple classes, and I am most familiar with it for data structures."
+        "description":"I have used Java in most of my computer science classes, and I am most familiar with it for data structures and algorithms."
       },
       {
         "name":"Python",
         "level":"90%",
         "image":"./images/python.png",
-        "description":"I am proficient in Python and I really love to use it."
+        "description":"I enjoy using Python to write scripts. I took my Computational Genomics in it and wrote many bioinformatival algorithms."
       },
       {
         "name":"JavaScript",
         "level":"60%",
         "image":"./images/javascript.png",
-        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+        "description":"I am currently learning more JavaScript, and have experience with multiple libraries such as React and React-Native."
       },
       {
         "name":"C",
         "level":"80%",
         "image":"./images/c.png",
-        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+        "description":"I used C for multiple class projects. In one of them, I created a dynamic heap manager that could allocate/remove space in the heap."
       },
       {
-        "name":"ReactJs",
+        "name":"React | React-Native",
         "level":"50%",
         "image":"./images/react.png",
-        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+        "description":"I built a React-Native app at my last internship, and I am currently learning more React on my own time."
       },
       {
         "name":"MongoDB",
         "level":"80%",
         "image":"./images/mongodb.png",
-        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+        "description":"I like to use Mongo for my databases, as it is easy to use and scalable."
       },
       {
         "name":"Git",
         "level":"60%",
         "image":"./images/git.png",
-        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+        "description":"I have used git for most of my projects, and am very comfortable with version control on GitHub."
       },
       {
         "name":"Unity",
         "level":"50%",
         "image":"./images/unity.png",
-        "description":"finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish finish"
+        "description":"I have created a few games in Unity2D and 3D, and I am still learning and improving at it."
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"NBA Player Recommender",
+        "category":"Recommends which free agent an NBA team should select",
+        "image":"nba.png",
+        "url":"https://jeff-eunkee-kim.github.io/nba-player-recommender/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Dodgem",
+        "category":"A free-running dodging game that I developed",
+        "image":"dodgem.png",
+        "url":"https://simmer.io/@dsong98/dodgem"
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"penguins.png",
+        "url":"https://simmer.io/@dsong98/penguins-can-fly"
       }
     ]
   },

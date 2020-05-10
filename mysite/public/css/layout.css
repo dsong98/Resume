@@ -293,7 +293,7 @@ ul#nav li.current a { color: #0080ff; }
 }
 
 #resume .imgsize {
-   max-width: 50%;
+   max-width: 60%;
 }
 
 
@@ -438,7 +438,6 @@ ul#nav li.current a { color: #0080ff; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font-size: 3rem;
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
