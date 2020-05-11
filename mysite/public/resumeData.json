@@ -131,10 +131,16 @@
         "url":"https://simmer.io/@dsong98/dodgem"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Penguins can fly!",
+        "category":"A fun game I designed with inspiratinon from Flappy Bird",
         "image":"penguins.png",
         "url":"https://simmer.io/@dsong98/penguins-can-fly"
+      },
+      {
+        "title":"Chuck Norris Fun Facts",
+        "category":"Hear random fun facts about Chuck Norris",
+        "image":"chucknorris.png",
+        "url":"http://funapp.com.s3-website-us-east-1.amazonaws.com/"
       }
     ]
   },
