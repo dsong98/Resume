@@ -1,24 +1,25 @@
 {
-  "homepage": "http://dsong98.github.io",
-  "name": "personalportfolio",
+  "name": "Daniel_Song",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "import": "0.0.6",
     "jquery": "^3.2.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "1.0.17"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "aws s3 sync build/ s3://danielsong.com --acl public-read",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    
   }
 }
